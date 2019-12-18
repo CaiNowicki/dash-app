@@ -35,7 +35,7 @@ footer = dbc.Container(
         dbc.Col(
             html.P(
                 [
-                    html.Span('Cai Nowicki', className='mr-2'), 
+                    html.Span('Cai Nowicki, Lambda School Student', className='mr-2'), 
                     html.A(html.I(className='fas fa-envelope-square mr-1'), href='mailto:cai.nowicki@gmail.com'), 
                     html.A(html.I(className='fab fa-github-square mr-1'), href='https://github.com/dunkelweizen'), 
                     html.A(html.I(className='fab fa-linkedin mr-1'), href='https://www.linkedin.com/in/cai-nowicki-82749312/'), 
