@@ -16,6 +16,7 @@ column1 = dbc.Col(
             """
         
             ## Insights
+            I had to do a lot of feature engineering to get these results! The data by itself wasn't all that informative, so I had to combine it in order to create useful features.
 
 
             """
