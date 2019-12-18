@@ -16,7 +16,9 @@ column1 = dbc.Col(
         dcc.Markdown(
             """
         
-            ## Thanksgiving Quiz: Can We Guess Where You Are From Based on Thanksgiving Dinner?
+            ## Thanksgiving Quiz!
+		
+		Can We Guess Where You Are From Based on Thanksgiving Dinner?
 
 
             """
