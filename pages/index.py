@@ -17,8 +17,7 @@ column1 = dbc.Col(
             """
         
             ## Thanksgiving Quiz!
-		
-		Can We Guess Where You Are From Based on Thanksgiving Dinner?
+		#Can We Guess Where You Are From Based on Thanksgiving Dinner?
 
 
             """
