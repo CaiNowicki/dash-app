@@ -15,9 +15,9 @@ column1 = dbc.Col(
         dcc.Markdown(
             """
         
-            ## Predictions
+            ## The Quiz
 
-            Your instructions: How to use your app to get new predictions.
+            Answer these questions so we can guess where you ate Thanksgiving dinner!
 
             """
         ),

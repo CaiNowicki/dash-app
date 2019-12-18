@@ -17,7 +17,9 @@ column1 = dbc.Col(
         
             ## Process
 
+            This was a surprisingly difficult project. It took quite a bit of work to create a model that had a reasonable level of accuracy. 
 
+            I was surprised at the features that ended up impacting the model the most. Having whether or not someone was a Black Friday shopper affect the region, for example, was something I did not expect.
             """
         ),
 

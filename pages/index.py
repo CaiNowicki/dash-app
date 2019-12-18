@@ -14,27 +14,17 @@ from app import app
 column1 = dbc.Col(
     [
         dcc.Markdown(
-            """
+             """
         
             ## Thanksgiving Quiz!
-		#Can We Guess Where You Are From Based on Thanksgiving Dinner?
-
-
-            """
+            Can we guess where you are from based on your Thanksgiving dinner?
+            This quiz uses basic information about you and the foods you ate at Thanksgiving to create a prediction of where you ate that dinner!
+            """,
         ),
         dcc.Link(dbc.Button('Take the Quiz Now!', color='primary'), href='/predictions')
     ],
     md=4,
 )
 
-gapminder = px.data.gapminder()
-fig = px.scatter(gapminder.query("year==2007"), x="gdpPercap", y="lifeExp", size="pop", color="continent",
-           hover_name="country", log_x=True, size_max=60)
 
-column2 = dbc.Col(
-    [
-        dcc.Graph(figure=fig),
-    ]
-)
-
-layout = dbc.Row([column1, column2])
+layout = dbc.Row([column1])
