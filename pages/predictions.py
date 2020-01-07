@@ -32,7 +32,7 @@ col2 = dbc.Col(
                 {'label': 'Cherry', 'value': 'cherry'}
                 
             ],
-            multi=True
+            multi=True,
             className = 'mb-3',
         ),
         # Cranberry Sauce Dropdown
@@ -40,12 +40,11 @@ col2 = dbc.Col(
         dcc.Dropdown(
             id='cranberry_sauce', 
             options= [
-                {'label': 'Homemade', 'value': 'homemade},
+                {'label': 'Homemade', 'value': 'homemade'},
                 {'label': 'Canned', 'value': 'canned'},
                 {'label': 'None', 'value': 'none'}
             ],
             className = 'mb-3',
-            value=0
         ),
         # Vegetables Dropdown
         dcc.Markdown('##### What kind of vegetables did you have?'),
@@ -59,7 +58,7 @@ col2 = dbc.Col(
                 {'label': 'Cauliflower', 'value': 'cauliflower'}
                 {'label': 'None of these/no vegetables', 'value': 'none'}
             ],
-            multi=True
+            multi=True,
             className = 'mb-3',
         ),
     # Turkey cooking Dropdown
@@ -73,7 +72,6 @@ col2 = dbc.Col(
                 {'label': 'We didn\'t have turkey', 'value': 'no_turkey'} 
             ],
             className = 'mb-3',
-            value=0
         ), 
         # Rolls/Biscuits Dropdown
         dcc.Markdown('##### Were there rolls and/or biscuits on the table?'),
@@ -94,7 +92,6 @@ col2 = dbc.Col(
                 {'label': 'Yes', 'value': 1},
             ],
             className = 'mb-3',
-            value=0
         ),
         # Potatoes Dropdown
         dcc.Markdown('##### Did you serve mashed potatoes?'),
@@ -105,7 +102,6 @@ col2 = dbc.Col(
                 {'label': 'Of course!', 'value': 1},
             ],
             className = 'mb-3',
-            value=0
         ),
         # Sweet Potatoes Dropdown
         dcc.Markdown('##### How about sweet potatoes?'),
@@ -116,7 +112,6 @@ col2 = dbc.Col(
                 {'label': 'Yes', 'value': 1},
             ],
             className = 'mb-3',
-            value=0
         ),
         # Cornbread Dropdown
         dcc.Markdown('##### Did you have cornbread?'),
@@ -127,10 +122,12 @@ col2 = dbc.Col(
                 {'label': 'Yes', 'value': 1},
             ],
             className = 'mb-3',
-            value=0
-        ),
+         ),
         
-    ]
+        
+    ],
+   
+    
 )
 
 layout = dbc.Row([col1, col2])
