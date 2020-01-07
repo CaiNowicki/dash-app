@@ -37,7 +37,8 @@ col2 = dbc.Col(
                 {'label': 'Pecan', 'value': 'pecan'},
                 {'label': 'Sweet Potato', 'value': 'sweet_potato'},
                 {'label': 'Cherry', 'value': 'cherry'},
-                {'label': 'No pie or another kind of pie', 'value': 'none'}
+                {'label': 'Some other kind', 'value': 'other'},
+                {'label': 'No pie', 'value': 'none'}
 
             ],
             multi=True,
@@ -165,7 +166,7 @@ def predict(pie, cranberry_sauce, vegetables, main_dish_cooked, rolls, mac_n_che
             sweet_potato_pie = 'Yes'
         elif value is 'cherry':
             cherry_pie = 'Yes'
-        else:
+        elif value is 'none':
             pumpkin_pie = 'No'
             apple_pie = 'No'
             pecan_pie = 'No'
