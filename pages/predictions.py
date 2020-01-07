@@ -10,15 +10,15 @@ from app import app
 
 # 2 column layout. 1st column width = 4/12
 # https://dash-bootstrap-components.opensource.faculty.ai/l/components/layout
-column1 = dbc.Col(
+col1 = dbc.Col(
      [
-        html.H2('Dinner Region Prediction', className='mb-4', style={'textAlign': 'center'}),
+        html.H2('Dinner Region Prediction', style={'textAlign': 'center'}),
     ],
     
     md = 4
 )
 
-col1 = dbc.Col(    
+col2 = dbc.Col(    
     [
      # Pie Dropdown
         dcc.Markdown('##### What kind of pie did you have?'),
@@ -133,4 +133,4 @@ col1 = dbc.Col(
     ]
 )
 
-layout = dbc.Row([column1, column2])
+layout = dbc.Row([col1, col2])
