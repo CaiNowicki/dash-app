@@ -31,7 +31,7 @@ col2 = dbc.Col(
         dcc.Markdown('##### What kind of pie did you have?'),
         dcc.Dropdown(
             id='pie',
-            options=[
+            options=[f
                 {'label': 'Pumpkin', 'value': 'pumpkin'},
                 {'label': 'Apple', 'value': 'apple'},
                 {'label': 'Pecan', 'value': 'pecan'},
