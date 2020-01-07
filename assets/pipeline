@@ -1,0 +1,213 @@
+import warnings
+
+warnings.simplefilter(action='ignore',
+                      category=FutureWarning)  # this silences future warnings, like the one on Logistic Regression solver
+import pandas as pd
+import numpy as np
+
+from sklearn.linear_model import LogisticRegression
+from sklearn.preprocessing import OrdinalEncoder
+from sklearn.pipeline import make_pipeline
+from sklearn.preprocessing import StandardScaler
+
+
+df = pd.read_csv(
+    '../assets/poll_data.csv')
+
+df.columns = ['ID', 'Celebrate', 'Main_Dish', 'Main_Dish_Other', 'Main_Dish_Cooked', 'Main_Dish_Cooked_Other',
+              'Stuffing',
+              'Stuffing_Other', 'Cranberry_Sauce', 'Cranberry_Sauce_Other', 'Gravy', 'Brussel_Sprouts', 'Carrots',
+              'Cauliflower',
+              'Corn', 'Cornbread', 'Fruit_Salad', 'Green_Beans', 'Mac_and_Cheese', 'Mashed_Potatoes', 'Rolls_Biscuits',
+              'Squash',
+              'Salad', 'Sweet_Potatoes', 'Side_Dish_Other1', 'Side_Dish_Other2', 'Apple_Pie', 'Buttermilk_Pie',
+              'Cherry_Pie',
+              'Chocolate_Pie', 'Coconut_Cream_Pie', 'Key_Lime_Pie', 'Peach_Pie', 'Pecan_Pie', 'Pumpkin_Pie',
+              'Sweet_Potato_Pie',
+              'No_Pie', 'Other_Pie1', 'Other_Pie2', 'Apple_Cobbler', 'Blondies', 'Brownies', 'Carrot_Cake',
+              'Cheesecake', 'Cookies',
+              'Fudge', 'Ice_Cream', 'Peach_Cobbler', 'No_Dessert', 'Other_Dessert1', 'Other_Dessert2', 'Prayer',
+              'Travel_Distance', 'Parade',
+              'Kids_Table_Age', 'Old_Friends', 'Friendsgiving', 'Black_Friday_Shopper', 'Retail_Worker',
+              'Black_Friday_Worker', 'Neighborhood_Type',
+              'Age', 'Gender', 'Household_Earnings', 'US_Region']
+
+side_dishes = ['Stuffing',
+               'Stuffing_Other', 'Cranberry_Sauce', 'Cranberry_Sauce_Other', 'Gravy', 'Brussel_Sprouts', 'Carrots',
+               'Cauliflower',
+               'Corn', 'Cornbread', 'Fruit_Salad', 'Green_Beans', 'Mac_and_Cheese', 'Mashed_Potatoes', 'Rolls_Biscuits',
+               'Squash',
+               'Salad', 'Sweet_Potatoes', 'Side_Dish_Other1', 'Side_Dish_Other2', 'Apple_Pie', 'Buttermilk_Pie',
+               'Cherry_Pie',
+               'Chocolate_Pie', 'Coconut_Cream_Pie', 'Key_Lime_Pie', 'Peach_Pie', 'Pecan_Pie', 'Pumpkin_Pie',
+               'Sweet_Potato_Pie',
+               'No_Pie', 'Other_Pie1', 'Other_Pie2', 'Apple_Cobbler', 'Blondies', 'Brownies', 'Carrot_Cake',
+               'Cheesecake', 'Cookies',
+               'Fudge', 'Ice_Cream', 'Peach_Cobbler', 'No_Dessert', 'Other_Dessert1', 'Other_Dessert2', 'Casserole',
+               'Meat_Pie', 'Chess_Pie']
+
+vegetables = ['Brussel_Sprouts', 'Carrots', 'Cauliflower', 'Corn', 'Green_Beans',
+              'Squash', 'Salad']
+starches = ['Stuffing', 'Cornbread', 'Mac_and_Cheese', 'Mashed_Potatoes', 'Rolls_Biscuits',
+            'Sweet_Potatoes']
+sweet_sides = ['Cranberry_Sauce', 'Fruit_Salad']
+desserts = ['Apple_Pie', 'Buttermilk_Pie', 'Cherry_Pie',
+            'Chocolate_Pie', 'Coconut_Cream_Pie', 'Key_Lime_Pie', 'Peach_Pie',
+            'Pecan_Pie', 'Pumpkin_Pie', 'Sweet_Potato_Pie',
+            'Apple_Cobbler',
+            'Blondies', 'Brownies', 'Carrot_Cake', 'Cheesecake', 'Cookies',
+            'Fudge', 'Ice_Cream', 'Peach_Cobbler', 'Chess_Pie']
+pies = ['Apple_Pie', 'Buttermilk_Pie', 'Cherry_Pie',
+        'Chocolate_Pie', 'Coconut_Cream_Pie', 'Key_Lime_Pie', 'Peach_Pie',
+        'Pecan_Pie', 'Pumpkin_Pie', 'Sweet_Potato_Pie', 'Chess_Pie', 'Meat_Pie']
+food = ['Main_Dish', 'Stuffing', 'Cranberry_Sauce', 'Gravy', 'Brussel_Sprouts', 'Carrots', 'Cauliflower',
+        'Corn', 'Cornbread', 'Fruit_Salad', 'Green_Beans', 'Mac_and_Cheese',
+        'Mashed_Potatoes', 'Rolls_Biscuits', 'Squash', 'Salad',
+        'Sweet_Potatoes', 'Apple_Pie', 'Buttermilk_Pie', 'Cherry_Pie',
+        'Chocolate_Pie', 'Coconut_Cream_Pie', 'Key_Lime_Pie', 'Peach_Pie',
+        'Pecan_Pie', 'Pumpkin_Pie', 'Sweet_Potato_Pie',
+        'Apple_Cobbler', 'Blondies', 'Brownies', 'Carrot_Cake', 'Cheesecake',
+        'Cookies', 'Fudge', 'Ice_Cream', 'Peach_Cobbler', 'Homemade_Cranberry_Sauce', 'Roast_Turkey', 'Smoked_Turkey',
+        'Rice_Stuffing', 'Fried_Turkey', 'Meat_Pie', 'Chess_Pie', 'Casserole', 'Broccoli', 'Cornbread_Stuffing',
+        'Canned_Cranberry_Sauce']
+
+# create regional groups
+
+northeast = ['Squash', 'Apple_Pie', 'Homemade_Cranberry_Sauce', 'Cauliflower', 'Corn', 'Brussel_Sprouts',
+             'Roast_Turkey']
+southern = ['Mac_and_Cheese', 'Cornbread', 'Sweet_Potato_Pie', 'Pecan_Pie', 'Fried_Turkey', 'Sweet_Potatoes',
+            'Cornbread_Stuffing', 'Chess_Pie', 'Peach_Pie', 'Key_Lime_Pie', 'Canned_Cranberry_Sauce']
+midwest_and_plains = ['Cherry_Pie', 'Pumpkin_Pie', 'Rolls_Biscuits', 'Mashed_Potatoes', 'Rice', 'Rice_Stuffing',
+                      'Green_Beans', 'Casserole']
+west = ['Fruit_Salad', 'Salad', 'Brussel_Sprouts', 'Apple_Pie', 'Cherry_Pie', 'Canned_Cranberry_Sauce']
+hawaii = ['Smoked_Turkey', 'Rolls_Biscuits', 'Salad', 'Rice_Stuffing']
+
+
+def wrangle(df):
+    # remove any rows where they do not celebrate
+    df = df.drop(df[df.Celebrate == 'No'].index)
+    df = df.drop('Celebrate', axis=1)
+    # remove earnings, is creating a map of earning potential by region rather than anything to do with food
+    df = df.drop('Household_Earnings', axis=1)
+
+    # many columns formatted so that a column has the name of the dish if true and NaN if false
+    # so replace all the NaN with No and all values with Yes
+    # also for Parade column
+    for column in df.columns:
+        if 'Other' in column:
+            df[column] = df[column].fillna('No')
+        elif (column in side_dishes) & (column != 'Cranberry_Sauce') & (column != 'Stuffing'):
+            df[column] = df[column].replace(r'.*', 'Yes', regex=True)
+            df[column] = df[column].fillna('No')
+        elif (column == 'Cranberry_Sauce') | (column == 'Stuffing'):
+            df[column] = df[column].fillna('None')
+        elif column == 'Parade':
+            df[column] = df[column].replace(r'.*', 'Yes', regex=True)
+            df[column] = df[column].fillna('No')
+    df = df.replace('YesYes', 'Yes')
+    df['Cranberry_Sauce'] = np.where((df['Cranberry_Sauce_Other'].str.contains('homemade', case=False)
+                                      & df['Cranberry_Sauce_Other'].str.contains('canned', case=False)),
+                                     'Both', df['Cranberry_Sauce'])
+    df['Salad'] = np.where(df['Side_Dish_Other2'].str.contains('salad', case=False), 'Yes', df['Salad'])
+    df['Casserole'] = 'No'
+    df['Casserole'] = np.where(df['Side_Dish_Other2'].str.contains('casserole', case=False), 'Yes', df['Casserole'])
+    df['Stuffing'] = np.where((df['Stuffing_Other'].str.contains('cornbread', case=False)
+                               | df['Stuffing_Other'].str.contains('corn bread', case=False)),
+                              'Cornbread', df['Stuffing'])
+    df['Meat_Pie'] = df['Other_Pie2'].apply(lambda x: 'Yes' if 'meat' in x.lower() else 'No')
+    df['Chess_Pie'] = df['Other_Pie2'].apply(
+        lambda x: 'Yes' if ('chess' in x.lower()) | ('cornmeal' in x.lower()) else 'No')
+    df['Main_Dish_Cooked'] = np.where(df['Main_Dish_Cooked_Other'].str.contains('grilled', case=False), 'Grilled',
+                                      df['Main_Dish_Cooked'])
+    df['Main_Dish'] = np.where(df['Main_Dish_Other'].str.contains('turkey', case=False), 'Turkey', df['Main_Dish'])
+    df['Main_Dish_Cooked'] = np.where(df['Main_Dish_Cooked_Other'].str.contains('smoked', case=False), 'Smoked',
+                                      df['Main_Dish_Cooked'])
+    df['Broccoli'] = df['Side_Dish_Other2'].apply(lambda x: 'Yes' if 'broccoli' in x.lower() else 'No')
+    df['Pumpkin_Pie'] = np.where(df['Other_Dessert2'].str.contains('pumpkin', case=False), 'Yes', df['Pumpkin_Pie'])
+    df['Rice'] = df['Side_Dish_Other2'].apply(lambda x: 'Yes' if 'rice' in x.lower() else 'No')
+    for column in df.columns:
+        if 'Other' in column:
+            df = df.drop(column, axis=1)
+    # simplify main dish options
+    main_dishes = ('Turkey', 'Ham/Pork', 'Tofurkey', 'Chicken')
+    df['Main_Dish'] = df['Main_Dish'].apply(lambda x: x if x in main_dishes else 'Other')
+
+    # remove the ID column, it's meaningless
+    df = df.drop('ID', axis=1)
+    # replace empty values in Black_Friday_Worker with 'No' if person isn't in retail
+    df['Black_Friday_Worker'] = df['Retail_Worker'].apply(lambda x: 'No' if x == 'No' else x)
+
+    # fix NaN values in other columns
+    df['Kids_Table_Age'] = df['Kids_Table_Age'].fillna('No Kids Table')
+    mode = df['Age'].mode()[0]
+    df['Age'] = df['Age'].fillna(mode)
+    mode = df['Travel_Distance'].mode()[0]
+    df['Travel_Distance'] = df['Travel_Distance'].fillna(mode)
+    df = df.fillna('Other')
+
+    df['Kids_Table'] = df['Kids_Table_Age'].apply(lambda x: 'No' if x == 'No Kids Table' else 'Yes')
+
+    df['Fried_Turkey'] = df['Main_Dish_Cooked'].apply(lambda x: 'Yes' if x == 'Fried' else 'No')
+    df['Homemade_Cranberry_Sauce'] = df['Cranberry_Sauce'].apply(
+        lambda x: 'Yes' if (x == 'Homemade') | (x == 'Both') else 'No')
+    df['Cornbread_Stuffing'] = df['Stuffing'].apply(lambda x: 'Yes' if x == 'Cornbread' else 'No')
+    df['Canned_Cranberry_Sauce'] = df['Cranberry_Sauce'].apply(lambda x: 'Yes' if x == 'Canned' else 'No')
+    df['Smoked_Turkey'] = df['Main_Dish_Cooked'].apply(lambda x: 'Yes' if x == 'Smoked' else 'No')
+    df['Rice_Stuffing'] = df['Stuffing'].apply(lambda x: 'Yes' if 'rice' in x.lower() else 'No')
+    df['Roast_Turkey'] = df['Main_Dish_Cooked'].apply(lambda x: 'Yes' if x == 'Roasted' else 'No')
+
+    df = df.drop('Cranberry_Sauce', axis=1)
+
+    northeast_df = df[df[northeast] == 'Yes']
+    southern_df = df[df[southern] == 'Yes']
+    flyover_df = df[df[midwest_and_plains] == 'Yes']
+    west_df = df[df[west] == 'Yes']
+    hawaiian_df = df[df[hawaii] == 'Yes']
+
+    for column in df.columns:
+        if column not in food:
+            df = df.drop(column, axis=1)
+
+    northeast_df['NE_Total'] = northeast_df.count(axis=1)
+    southern_df['South_Total'] = southern_df.count(axis=1)
+    flyover_df['MW_Total'] = flyover_df.count(axis=1)
+    west_df['W_Total'] = west_df.count(axis=1)
+    hawaiian_df['H_total'] = hawaiian_df.count(axis=1)
+    df['NE_Total'] = northeast_df['NE_Total']
+    df['South_Total'] = southern_df['South_Total']
+    df['MW_Total'] = flyover_df['MW_Total']
+    df['W_Total'] = west_df['W_Total']
+    df['H_Total'] = hawaiian_df['H_total']
+
+    totals = ['NE_Total', 'South_Total', 'MW_Total', 'W_Total', 'H_Total']
+    df['Type_of_Thanksgiving'] = df[totals].idxmax(axis=1)
+
+    df['Type_of_Thanksgiving'] = df['Type_of_Thanksgiving'].str.replace('_Total', '')
+    df['Type_of_Thanksgiving'] = df['Type_of_Thanksgiving'].replace(['MW', 'South', 'NE', 'W', 'H'],
+                                                                    ['Midwestern', 'Southern', 'New Englander',
+                                                                     'Californian/Pacific Coast', 'Hawaiian'])
+
+    for column in totals:
+        df = df.drop(column, axis=1)
+    return df
+
+
+train = wrangle(df)
+target = 'Type_of_Thanksgiving'
+
+X_train = train.drop(target, axis=1)
+y_train = train[target]
+
+
+pipeline = make_pipeline(OrdinalEncoder(), StandardScaler(), LogisticRegression())
+features = ['Pumpkin_Pie', 'Homemade_Cranberry_Sauce', 'Corn', 'Rolls_Biscuits', 'Green_Beans',
+            'Apple_Pie', 'Squash', 'Mac_and_Cheese', 'Mashed_Potatoes', 'Brussel_Sprouts', 'Cornbread',
+            'Sweet_Potatoes',
+            'Cherry_Pie', 'Sweet_Potato_Pie', 'Pecan_Pie', 'Canned_Cranberry_Sauce', 'Cauliflower', 'Roast_Turkey',
+            'Fried_Turkey']
+X_train_features = X_train[features]
+
+pipeline.fit(X_train_features, y_train)
+
+from sklearn.externals import joblib
+joblib.dump(pipeline, '../assets/pipeline.pkl')
