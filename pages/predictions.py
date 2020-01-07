@@ -9,7 +9,7 @@ from joblib import load
 # Imports from this application
 from app import app
 
-pipeline = load('../assets/pipeline.pkl')
+pipeline = load('/assets/pipeline.pkl')
 
 import pandas as pd
 
