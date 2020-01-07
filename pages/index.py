@@ -17,8 +17,9 @@ column1 = dbc.Col(
              """
         
             ## Thanksgiving Quiz!
-            Can we guess where you are from based on your Thanksgiving dinner?
-            This quiz uses basic information about you and the foods you ate at Thanksgiving to create a prediction of where you ate that dinner!
+            What region are your family's Thanksgiving foods from? 
+            This quiz will ask you about a few of the foods you eat at Thanksgiving and tell you what region of the country your dinner is most similar to.
+            The regional options are Californian/Pacific Coast, New England, middle America/Midwest, Southeast, and Hawaiian. 
             """,
         ),
         dcc.Link(dbc.Button('Take the Quiz Now!', color='primary'), href='/predictions')
