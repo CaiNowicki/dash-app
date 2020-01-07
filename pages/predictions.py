@@ -154,7 +154,8 @@ col2 = dbc.Col(
     ]
 )
 def predict(pie, cranberry_sauce, vegetables, main_dish_cooked, rolls, mac_n_cheese,
-             mashed_potatoes, sweet_potatoes, cornbread):
+            mashed_potatoes, sweet_potatoes, cornbread):
+    pumpkin_pie = homemade_cranberry = corn = green_beans = apple_pie = squash = brussel_sprouts = cherry_pie = sweet_potato_pie = pecan_pie = canned_cranberry = cauliflower = roasted_turkey = fried_turkey = 'No'
     for value in pie:
         if value is 'pumpkin':
             pumpkin_pie = 'Yes'
@@ -166,21 +167,6 @@ def predict(pie, cranberry_sauce, vegetables, main_dish_cooked, rolls, mac_n_che
             sweet_potato_pie = 'Yes'
         elif value is 'cherry':
             cherry_pie = 'Yes'
-        elif value is 'none':
-            pumpkin_pie = 'No'
-            apple_pie = 'No'
-            pecan_pie = 'No'
-            sweet_potato_pie = 'No'
-            cherry_pie = 'No'
-    if pie != ['none']:
-        if 'pumpkin' not in pie:
-            pumpkin_pie = 'No'
-        if 'apple' not in pie:
-            apple_pie = 'No'
-        if 'pecan' not in pie:
-            pecan_pie = 'No'
-        if 'sweet_potato' not in pie:
-            sweet_potato_pie = 'No'
     for value in vegetables:
         if value is 'corn':
             corn = 'Yes'
@@ -192,23 +178,7 @@ def predict(pie, cranberry_sauce, vegetables, main_dish_cooked, rolls, mac_n_che
             brussel_sprouts = 'Yes'
         elif value is 'cauliflower':
             cauliflower = 'Yes'
-        else:
-            corn = 'No'
-            green_beans = 'No'
-            squash = 'No'
-            brussel_sprouts = 'No'
-            cauliflower = 'No'
-    if vegetables != ['none']:
-        if 'corn' not in vegetables:
-            corn = 'No'
-        if 'green_beans' not in vegetables:
-            green_beans = 'No'
-        if 'squash' not in vegetables:
-            squash = 'No'
-        if 'brussel_sprouts' not in vegetables:
-            brussel_sprouts = 'No'
-        if 'cauliflower' not in vegetables:
-            cauliflower = 'No'
+
     for value in main_dish_cooked:
         if value is 'roasted':
             roasted_turkey = 'Yes'
@@ -222,9 +192,6 @@ def predict(pie, cranberry_sauce, vegetables, main_dish_cooked, rolls, mac_n_che
         if value is 'both':
             homemade_cranberry = 'Yes'
             canned_cranberry = 'Yes'
-        if value is 'none':
-            homemade_cranberry = 'No'
-            canned_cranberry = 'No'
 
     input_df = pd.DataFrame(
         columns=['Pumpkin_Pie', 'Homemade_Cranberry_Sauce', 'Corn', 'Rolls_Biscuits', 'Green_Beans',
