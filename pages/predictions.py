@@ -9,7 +9,7 @@ from joblib import load
 # Imports from this application
 from app import app
 
-pipeline = load('../assets/pipeline.pkl')
+pipeline = load('assets/pipeline.pkl')
 
 import pandas as pd
 
@@ -18,7 +18,8 @@ import pandas as pd
 col1 = dbc.Col(
     [
         html.H2('Dinner Region Prediction', style={'textAlign': 'center'}),
-        html.H3('Your dinner is most similar to Thanksgiving meals in', id='prediction-content')
+        html.H3('Your dinner is most similar to Thanksgiving meals in'),
+        html.Div(id='prediction-content', className='mb-3', style={'textAlign': 'center', 'font-weight': 'bold'})
     ],
 
     md=4
@@ -137,8 +138,6 @@ col2 = dbc.Col(
 )
 
 
-
-
 @app.callback(
     Output('prediction-content', 'children'),
     [
@@ -153,7 +152,7 @@ col2 = dbc.Col(
         Input('cornbread', 'value'),
     ]
 )
-def fit_data(pie, cranberry_sauce, vegetables, main_dish_cooked, rolls, mac_n_cheese,
+def predict(pie, cranberry_sauce, vegetables, main_dish_cooked, rolls, mac_n_cheese,
              mashed_potatoes, sweet_potatoes, cornbread):
     for value in pie:
         if value is 'pumpkin':
@@ -236,8 +235,8 @@ def fit_data(pie, cranberry_sauce, vegetables, main_dish_cooked, rolls, mac_n_ch
                apple_pie, squash, mac_n_cheese, mashed_potatoes, brussel_sprouts, cornbread, sweet_potatoes,
                cherry_pie, sweet_potato_pie, pecan_pie, canned_cranberry, cauliflower, roasted_turkey, fried_turkey]]
     )
-    predicted_region = pipeline.predict(input_df)[0]
-    return predicted_region
+    y_pred = pipeline.predict(input_df)[0]
+    return y_pred
 
 
 col2_title = dbc.Row([html.H2('What foods were in your meal?', className='mb-6')], className='mb-3')
