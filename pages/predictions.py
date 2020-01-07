@@ -1,15 +1,14 @@
 # Imports from 3rd party libraries
-import dash
 import dash_bootstrap_components as dbc
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
+from joblib import load
 
 # Imports from this application
 from app import app
 
-from joblib import load
-pipeline = load('assets/pipeline.joblib')
+pipeline = load('../assets/pipeline.pkl')
 
 import pandas as pd
 
@@ -136,7 +135,7 @@ col2 = dbc.Col(
 
 )
 
-layout = dbc.Row([col1, col2])
+
 
 
 @app.callback(
@@ -154,7 +153,7 @@ layout = dbc.Row([col1, col2])
     ]
 )
 def fit_data(pie, cranberry_sauce, vegetables, main_dish_cooked, rolls, mac_n_cheese,
-            mashed_potatoes, sweet_potatoes, cornbread):
+             mashed_potatoes, sweet_potatoes, cornbread):
     for value in pie:
         if value is 'pumpkin':
             pumpkin_pie = 'Yes'
@@ -236,4 +235,9 @@ def fit_data(pie, cranberry_sauce, vegetables, main_dish_cooked, rolls, mac_n_ch
                apple_pie, squash, mac_n_cheese, mashed_potatoes, brussel_sprouts, cornbread, sweet_potatoes,
                cherry_pie, sweet_potato_pie, pecan_pie, canned_cranberry, cauliflower, roasted_turkey, fried_turkey]]
     )
-    return input_df
+    predicted_region = pipeline.predict(input_df)[0]
+    return predicted_region
+
+
+col2_title = dbc.Row([html.H2('What foods were in your meal?', className='mb-6')], className='mb-3')
+layout = dbc.Row([col1, col2])
