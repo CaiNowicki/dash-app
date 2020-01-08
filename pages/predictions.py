@@ -18,8 +18,10 @@ import pandas as pd
 col1 = dbc.Col(
     [
         html.H2('Dinner Region Prediction', style={'textAlign': 'center'}),
-        html.H3('Your dinner is most similar to Thanksgiving meals in'),
-        html.Div(id='prediction-content', className='mb-3', style={'textAlign': 'center', 'font-weight': 'bold'})
+        html.H5('Your dinner is most similar to Thanksgiving meals in the'),
+        html.Div(id='prediction-content', className='mb-3', style={'textAlign': 'center', 'font-weight': 'bold',
+                                                                   'font-color': 'blue'}),
+        html.H5('region')
     ],
 
     md=4
