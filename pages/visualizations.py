@@ -6,9 +6,14 @@ import plotly.express as px
 import pandas as pd
 
 df = pd.read_csv('assets/wrangled_data.csv')
-figure = px.density_heatmap(df, x='Mac_and_Cheese', y='Type_of_Thanksgiving', hover_data=df.columns)
-figure.update_xaxes = 'Was Mac and Cheese Served?'
-figure.update_yaxes = 'Thanksgiving Regional Type'
+figure1 = px.density_heatmap(df, x='Mac_and_Cheese', y='Type_of_Thanksgiving', hover_data=df.columns)
+figure1.update_xaxes(title_text='Was Mac and Cheese Served?')
+figure1.update_yaxes(title_text='Thanksgiving Regional Type')
+
+df = pd.read_csv('assets/wrangled_data.csv')
+figure2 = px.density_heatmap(df, x='Mac_and_Cheese', y='Type_of_Thanksgiving', hover_data=df.columns, histnorm='percent')
+figure2.update_xaxes(title_text='Was Mac and Cheese Served?')
+figure2.update_yaxes(title_text='Thanksgiving Regional Type')
 
 column1 = dbc.Col(
     [
@@ -24,9 +29,21 @@ column1 = dbc.Col(
 
            """
         ),
-        dcc.Graph(figure=figure)
+        dcc.Graph(figure=figure1),
     ],
     md=4,
 )
+column2 = dbc.Col(
+    [
+        dcc.Markdown(
+            """
 
-layout = dbc.Row([column1])
+           Alternatively, you can use the same figure to show relative percentages instead of total count. 
+
+           """
+        ),
+        dcc.Graph(figure=figure2),
+    ],
+    md=4,
+)
+layout = dbc.Row([column1, column2])
