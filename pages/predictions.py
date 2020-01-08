@@ -153,9 +153,14 @@ col2 = dbc.Col(
         Input('cornbread', 'value'),
     ]
 )
+
+#function to reformat data and create prediction
 def predict(pie, cranberry_sauce, vegetables, main_dish_cooked, rolls, mac_n_cheese,
             mashed_potatoes, sweet_potatoes, cornbread):
-    pumpkin_pie = homemade_cranberry = corn = green_beans = apple_pie = squash = brussel_sprouts = cherry_pie = sweet_potato_pie = pecan_pie = canned_cranberry = cauliflower = roasted_turkey = fried_turkey = 'No'
+    # initial assignment of all variables to 'No'
+    pumpkin_pie = homemade_cranberry = corn = green_beans = apple_pie = squash = \
+        brussel_sprouts = cherry_pie = sweet_potato_pie = pecan_pie = canned_cranberry = cauliflower = \
+        roasted_turkey = fried_turkey = 'No'
     for value in pie:
         if value is 'pumpkin':
             pumpkin_pie = 'Yes'
