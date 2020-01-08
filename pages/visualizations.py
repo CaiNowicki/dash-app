@@ -37,6 +37,8 @@ column1 = dbc.Col(
            """
         ),
         dcc.Graph(figure=figure1),
+        html.Br,
+        html.Br,
         dcc.Markdown(
             """Sometimes, a visualization can show you a lack of relationship, too, which is also useful. For 
             example, this graph shows that an overwhelming percentage of poll-takers unsurprisingly had turkey 
@@ -49,6 +51,9 @@ column1 = dbc.Col(
 )
 column2 = dbc.Col(
     [
+        html.Br,
+        html.Br,
+        html.Br,
         dcc.Markdown(
             """
 
