@@ -1,0 +1,981 @@
+,Main_Dish,Stuffing,Gravy,Brussel_Sprouts,Carrots,Cauliflower,Corn,Cornbread,Fruit_Salad,Green_Beans,Mac_and_Cheese,Mashed_Potatoes,Rolls_Biscuits,Squash,Salad,Sweet_Potatoes,Apple_Pie,Buttermilk_Pie,Cherry_Pie,Chocolate_Pie,Coconut_Cream_Pie,Key_Lime_Pie,Peach_Pie,Pecan_Pie,Pumpkin_Pie,Sweet_Potato_Pie,Apple_Cobbler,Blondies,Brownies,Carrot_Cake,Cheesecake,Cookies,Fudge,Ice_Cream,Peach_Cobbler,Casserole,Meat_Pie,Chess_Pie,Broccoli,Fried_Turkey,Homemade_Cranberry_Sauce,Cornbread_Stuffing,Canned_Cranberry_Sauce,Smoked_Turkey,Rice_Stuffing,Roast_Turkey,Type_of_Thanksgiving
+0,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Southern
+1,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+2,Turkey,Rice-based,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,New Englander
+3,Turkey,Bread-based,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Southern
+4,Tofurkey,Bread-based,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Californian/Pacific Coast
+5,Turkey,Rice-based,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,New Englander
+6,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+7,Turkey,Rice-based,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,New Englander
+8,Turkey,Bread-based,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+9,Turkey,Bread-based,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+11,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+12,Ham/Pork,Bread-based,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+13,Turkey,Rice-based,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,Midwestern
+14,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+15,Turkey,Rice-based,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,Southern
+16,Other,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+17,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+18,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Californian/Pacific Coast
+19,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+20,Turkey,Bread-based,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+21,Turkey,None,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,New Englander
+23,Turkey,Rice-based,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,New Englander
+24,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+25,Turkey,Bread-based,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+26,Turkey,Bread-based,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+27,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+28,Other,Bread-based,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+29,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+30,Other,None,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+32,Turkey,None,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+33,Tofurkey,Bread-based,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+34,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Southern
+36,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Midwestern
+37,Turkey,Bread-based,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Southern
+38,Turkey,Bread-based,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+39,Ham/Pork,Bread-based,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+40,Turkey,Bread-based,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Southern
+42,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+43,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+44,Turkey,Bread-based,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+46,Turkey,None,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Southern
+47,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+48,Turkey,Bread-based,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+49,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+51,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Southern
+52,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+53,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+54,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Midwestern
+55,Other,None,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Midwestern
+56,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+57,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+58,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+59,Turkey,Bread-based,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+60,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+61,Other,None,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Midwestern
+62,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+64,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+66,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+67,Turkey,None,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,New Englander
+68,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+69,Tofurkey,Bread-based,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+70,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Southern
+71,Turkey,Bread-based,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+72,Tofurkey,Bread-based,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+73,Ham/Pork,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Southern
+74,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+76,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+77,Tofurkey,None,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,New Englander
+78,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+79,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+80,Turkey,Bread-based,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,New Englander
+81,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+82,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+83,Turkey,Bread-based,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+85,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+86,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+87,Turkey,Bread-based,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,New Englander
+88,Turkey,Rice-based,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,Yes,Midwestern
+89,Turkey,Other (please specify),Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+90,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+91,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+92,Other,Bread-based,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,New Englander
+93,Turkey,Cornbread,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,New Englander
+94,Ham/Pork,Bread-based,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+96,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+97,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+98,Other,Bread-based,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+99,Turkey,Bread-based,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Midwestern
+100,Turkey,None,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+101,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+102,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+103,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+104,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+105,Other,None,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,New Englander
+106,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+107,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Californian/Pacific Coast
+108,Turkey,None,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+109,Turkey,Bread-based,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Californian/Pacific Coast
+110,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Southern
+111,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+112,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+114,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+115,Turkey,Bread-based,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+116,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Californian/Pacific Coast
+117,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+118,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+119,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+120,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+121,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Midwestern
+122,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+123,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+124,Turkey,Bread-based,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,New Englander
+126,Ham/Pork,Bread-based,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+127,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+128,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+129,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+130,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+131,Turkey,None,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+132,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+133,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Midwestern
+134,Turkey,Rice-based,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,New Englander
+135,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+136,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Midwestern
+137,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+138,Turkey,Bread-based,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+139,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,New Englander
+140,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+141,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+142,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,New Englander
+143,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+144,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+145,Tofurkey,Bread-based,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+146,Turkey,Rice-based,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Midwestern
+148,Other,None,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Californian/Pacific Coast
+149,Turkey,Bread-based,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,New Englander
+150,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+152,Turkey,Bread-based,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+153,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Midwestern
+154,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+155,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Californian/Pacific Coast
+156,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+157,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+158,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+159,Turkey,Bread-based,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+160,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Southern
+161,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+162,Turkey,Bread-based,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+163,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+164,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Midwestern
+165,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,Southern
+166,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+167,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+168,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+169,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+171,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+172,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+173,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+174,Turkey,Bread-based,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+175,Tofurkey,Bread-based,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+176,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+177,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+178,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Midwestern
+179,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,Californian/Pacific Coast
+180,Turkey,None,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Midwestern
+181,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+182,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+183,Turkey,Bread-based,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+184,Turkey,Bread-based,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+185,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+186,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+187,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,New Englander
+188,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Southern
+189,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+190,Turkey,Bread-based,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,Southern
+191,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+192,Turkey,Cornbread,Yes,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Southern
+193,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+194,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+195,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+197,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Southern
+198,Turkey,Bread-based,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+199,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+200,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+201,Turkey,Rice-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,No,Midwestern
+202,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+203,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+204,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+205,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+207,Turkey,Bread-based,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,New Englander
+208,Other,Bread-based,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+209,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+210,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Californian/Pacific Coast
+211,Turkey,Bread-based,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+212,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+213,Turkey,Bread-based,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+215,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+216,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Midwestern
+217,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+218,Tofurkey,Bread-based,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+219,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+220,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+221,Other,Other (please specify),Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+222,Turkey,Bread-based,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+223,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+224,Turkey,Bread-based,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Californian/Pacific Coast
+225,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+226,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+227,Turkey,None,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Midwestern
+228,Other,None,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Californian/Pacific Coast
+229,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+230,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+231,Turkey,Bread-based,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+232,Turkey,None,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+233,Turkey,Bread-based,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Midwestern
+234,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+235,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+236,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+237,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Southern
+238,Turkey,Bread-based,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+239,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+240,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Midwestern
+241,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+242,Turkey,Cornbread,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Midwestern
+243,Tofurkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+244,Turkey,Bread-based,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+245,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Southern
+246,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+247,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+248,Ham/Pork,Bread-based,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+249,Turkey,None,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+250,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+251,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+253,Turkey,None,Yes,No,No,No,No,No,Yes,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+254,Turkey,Bread-based,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+255,Turkey,Bread-based,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Southern
+256,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+257,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+258,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Midwestern
+259,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+260,Turkey,Bread-based,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+261,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,New Englander
+262,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+263,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,New Englander
+264,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+265,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,New Englander
+266,Turkey,Bread-based,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+267,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+268,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+269,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+270,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+271,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+272,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+273,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+274,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+275,Tofurkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Southern
+276,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+277,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+278,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+279,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+280,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+281,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+282,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+283,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,Southern
+284,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+285,Turkey,Bread-based,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+286,Turkey,Cornbread,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,Yes,Southern
+287,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+288,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Midwestern
+289,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+290,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+291,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Southern
+292,Turkey,Other (please specify),Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+293,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+294,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+295,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+296,Turkey,Bread-based,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+297,Turkey,Bread-based,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+298,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,New Englander
+300,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+301,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+302,Turkey,Rice-based,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,New Englander
+303,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+304,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+305,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+306,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+307,Ham/Pork,Bread-based,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Californian/Pacific Coast
+308,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+309,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+310,Ham/Pork,Bread-based,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+311,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+313,Turkey,Other (please specify),Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,New Englander
+314,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+315,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+316,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Midwestern
+317,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+318,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+319,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+320,Turkey,Bread-based,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+321,Turkey,None,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+322,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+323,Turkey,Bread-based,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+324,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+325,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+326,Turkey,Bread-based,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+327,Turkey,Bread-based,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+328,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+329,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Southern
+330,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+331,Turkey,Rice-based,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,Midwestern
+332,Turkey,Rice-based,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Midwestern
+333,Turkey,Bread-based,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+334,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+335,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+336,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+337,Ham/Pork,None,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Southern
+339,Ham/Pork,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Southern
+340,Turkey,Bread-based,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Californian/Pacific Coast
+341,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+343,Turkey,Bread-based,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+344,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+345,Turkey,Bread-based,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+346,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+347,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+348,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Southern
+349,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+350,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+351,Turkey,Bread-based,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+352,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+353,Turkey,Cornbread,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Southern
+354,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+355,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+356,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+357,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+358,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+359,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+360,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+361,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Southern
+362,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Midwestern
+363,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+364,Other,None,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,New Englander
+365,Other,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Southern
+366,Turkey,Bread-based,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+367,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+368,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+369,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+370,Turkey,Rice-based,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,Midwestern
+371,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+372,Turkey,None,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,Southern
+373,Ham/Pork,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+374,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+375,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+376,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+377,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+378,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Midwestern
+379,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,Midwestern
+380,Turkey,Bread-based,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,New Englander
+381,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+382,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+383,Turkey,Bread-based,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+384,Turkey,Bread-based,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+385,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+386,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+387,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+388,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+389,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Southern
+390,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+391,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Midwestern
+392,Turkey,Bread-based,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+393,Tofurkey,Bread-based,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+394,Turkey,Bread-based,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+395,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+396,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+397,Chicken,Bread-based,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+399,Tofurkey,Bread-based,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+400,Turkey,Other (please specify),Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+401,Turkey,Rice-based,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,Midwestern
+402,Turkey,Rice-based,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,Midwestern
+403,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+404,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+405,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+406,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Midwestern
+407,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+408,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+409,Turkey,Bread-based,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+410,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+411,Turkey,Bread-based,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+412,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+413,Turkey,Bread-based,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+414,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,New Englander
+415,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+416,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+417,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,New Englander
+418,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+419,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+420,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+421,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Midwestern
+422,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Southern
+423,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+424,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+425,Turkey,Bread-based,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,New Englander
+426,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+427,Turkey,Cornbread,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,New Englander
+428,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+429,Turkey,Bread-based,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+430,Other,Bread-based,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+431,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+432,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+433,Turkey,Bread-based,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+434,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+435,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+436,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,Southern
+437,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Midwestern
+438,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+439,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+440,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+441,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+442,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Southern
+443,Turkey,Bread-based,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+444,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,New Englander
+445,Chicken,Rice-based,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,New Englander
+446,Ham/Pork,None,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,New Englander
+447,Turkey,None,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,New Englander
+448,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+449,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+450,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+451,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+453,Turkey,Bread-based,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+454,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+455,Turkey,Bread-based,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+457,Turkey,Rice-based,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,New Englander
+458,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+459,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+460,Turkey,Other (please specify),Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+461,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+462,Turkey,Bread-based,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+463,Turkey,Bread-based,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+464,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+465,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+466,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+467,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+468,Turkey,Bread-based,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes,Midwestern
+469,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+470,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+471,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+472,Ham/Pork,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+473,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+474,Turkey,Rice-based,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,Californian/Pacific Coast
+475,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+476,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+477,Chicken,Bread-based,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+478,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+479,Turkey,Other (please specify),Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+480,Other,None,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,New Englander
+481,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,Midwestern
+482,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+483,Other,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+484,Turkey,Other (please specify),Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+485,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+486,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+487,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+488,Turkey,Bread-based,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+489,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Midwestern
+490,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+491,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+492,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+493,Turkey,Bread-based,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+494,Turkey,Rice-based,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Southern
+495,Other,Bread-based,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Southern
+496,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes,Midwestern
+497,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+498,Turkey,Bread-based,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+499,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Southern
+500,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+501,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+502,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+503,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Southern
+504,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+505,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,New Englander
+506,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+507,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+508,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+509,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+510,Turkey,Rice-based,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,Midwestern
+511,Turkey,Bread-based,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+512,Turkey,Other (please specify),Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+513,Turkey,Other (please specify),Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,New Englander
+514,Turkey,Bread-based,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,New Englander
+516,Ham/Pork,Bread-based,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Californian/Pacific Coast
+517,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+518,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+520,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+521,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+522,Turkey,Bread-based,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+523,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+524,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+525,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,New Englander
+526,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,New Englander
+527,Turkey,Bread-based,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+528,Turkey,Bread-based,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,Midwestern
+529,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+530,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+531,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+532,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Midwestern
+533,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+534,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+535,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Southern
+536,Turkey,None,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+537,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Southern
+538,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+539,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+540,Turkey,None,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,New Englander
+541,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+542,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+543,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+544,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+545,Turkey,Rice-based,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,Southern
+546,Turkey,Cornbread,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Midwestern
+547,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+548,Turkey,Bread-based,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+549,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Midwestern
+550,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Southern
+551,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+552,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+553,Ham/Pork,Bread-based,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Southern
+554,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+555,Turkey,Bread-based,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+556,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+558,Turkey,Bread-based,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+559,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+560,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Midwestern
+561,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,New Englander
+562,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+563,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Southern
+564,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Southern
+565,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Southern
+566,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+567,Turkey,Bread-based,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+568,Ham/Pork,None,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+569,Turkey,Other (please specify),Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+570,Turkey,Bread-based,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+571,Tofurkey,Bread-based,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,New Englander
+572,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+573,Ham/Pork,Bread-based,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+574,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+575,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+576,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+577,Turkey,Bread-based,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+578,Turkey,Rice-based,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,No,Midwestern
+579,Turkey,Bread-based,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+580,Ham/Pork,Bread-based,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+581,Other,None,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+582,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+583,Turkey,Rice-based,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,Midwestern
+584,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+585,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+586,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+587,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Southern
+588,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+589,Turkey,None,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+590,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+591,Other,None,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Midwestern
+592,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,Southern
+593,Other,None,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,New Englander
+594,Tofurkey,Bread-based,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+595,Ham/Pork,Bread-based,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+596,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+597,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+598,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+599,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+600,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+601,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+602,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,New Englander
+603,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+604,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+605,Turkey,Other (please specify),Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+606,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Southern
+607,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+608,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+609,Turkey,Bread-based,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+610,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Midwestern
+611,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+612,Other,Bread-based,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Southern
+613,Ham/Pork,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+614,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+615,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+616,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+618,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+619,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+620,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+621,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+622,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+623,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+624,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Californian/Pacific Coast
+625,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+626,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+627,Turkey,Bread-based,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+628,Tofurkey,None,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+629,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+630,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+631,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Midwestern
+632,Turkey,Bread-based,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+633,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+634,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+635,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+637,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+638,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+639,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+640,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+641,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+642,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+643,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+644,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+645,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+646,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+647,Other,None,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Southern
+648,Turkey,Bread-based,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+649,Chicken,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+651,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+652,Turkey,Bread-based,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+653,Turkey,Bread-based,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+654,Other,Rice-based,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,Southern
+657,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+658,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,New Englander
+659,Turkey,None,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+660,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+661,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+662,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+663,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+664,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Southern
+665,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+666,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+667,Turkey,Rice-based,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,New Englander
+668,Turkey,Bread-based,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Southern
+669,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+670,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+671,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+672,Turkey,Other (please specify),Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,Southern
+673,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Southern
+674,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+675,Turkey,Bread-based,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,New Englander
+676,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Southern
+677,Ham/Pork,None,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+678,Turkey,Other (please specify),Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,Midwestern
+679,Turkey,Bread-based,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+680,Turkey,Bread-based,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+681,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+682,Turkey,Bread-based,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+683,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,New Englander
+684,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+685,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+686,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+687,Turkey,Cornbread,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Southern
+689,Turkey,Bread-based,Yes,No,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Southern
+690,Turkey,Bread-based,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+691,Turkey,None,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+692,Turkey,Bread-based,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+693,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+694,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+695,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+697,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+699,Turkey,Bread-based,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,New Englander
+700,Turkey,Other (please specify),Yes,No,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,New Englander
+701,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+702,Turkey,Cornbread,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Southern
+703,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+704,Turkey,Bread-based,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+705,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+706,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+707,Turkey,Bread-based,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Californian/Pacific Coast
+708,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+709,Turkey,Bread-based,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+711,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+712,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+715,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+716,Turkey,Rice-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Midwestern
+719,Other,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,New Englander
+720,Turkey,None,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,New Englander
+721,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+722,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+723,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+724,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,Midwestern
+725,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+726,Other,None,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Southern
+727,Other,None,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+728,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+729,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,New Englander
+730,Turkey,None,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+731,Turkey,Bread-based,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+732,Turkey,Other (please specify),Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+733,Turkey,Other (please specify),Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Southern
+734,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Southern
+735,Turkey,Bread-based,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+736,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+737,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+738,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+739,Turkey,Other (please specify),Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+740,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+741,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+742,Other,Bread-based,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+743,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,Southern
+744,Other,None,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+746,Ham/Pork,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+747,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+748,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+749,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,New Englander
+750,Ham/Pork,Bread-based,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+751,Turkey,Bread-based,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+752,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+753,Ham/Pork,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+754,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+755,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+757,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+758,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Southern
+759,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+760,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Southern
+761,Turkey,Bread-based,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+762,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+763,Turkey,None,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+764,Turkey,Bread-based,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+765,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+767,Turkey,Bread-based,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+768,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+770,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Southern
+771,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+773,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Southern
+774,Tofurkey,Bread-based,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+777,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+778,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Midwestern
+779,Chicken,Rice-based,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,No,Midwestern
+780,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+781,Turkey,Bread-based,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+782,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,Midwestern
+783,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+784,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,New Englander
+785,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Southern
+786,Turkey,Cornbread,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Southern
+787,Turkey,Bread-based,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+788,Chicken,Rice-based,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,Yes,No,Southern
+789,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+790,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+791,Turkey,Bread-based,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Southern
+792,Other,None,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,New Englander
+794,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+795,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+796,Turkey,Cornbread,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,New Englander
+797,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+798,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+799,Turkey,Rice-based,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Southern
+800,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+801,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Midwestern
+802,Turkey,Bread-based,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+803,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,New Englander
+804,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+805,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+806,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+807,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+808,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Southern
+810,Ham/Pork,Bread-based,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+812,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+813,Turkey,Bread-based,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+814,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+815,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+816,Other,Rice-based,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,Californian/Pacific Coast
+817,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+818,Turkey,Bread-based,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+819,Other,Rice-based,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,New Englander
+820,Tofurkey,Bread-based,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+821,Turkey,Bread-based,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+822,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+823,Turkey,None,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+824,Turkey,Bread-based,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+825,Turkey,Bread-based,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+826,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+827,Other,Rice-based,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,Yes,No,Southern
+828,Chicken,Bread-based,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Midwestern
+829,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+830,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+831,Turkey,Bread-based,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Southern
+832,Other,Bread-based,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+833,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,New Englander
+834,Turkey,Bread-based,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+835,Turkey,None,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+836,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+837,Tofurkey,None,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+838,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+839,Turkey,Bread-based,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+840,Turkey,Bread-based,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+841,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+842,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+843,Other,Other (please specify),Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,New Englander
+845,Other,None,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+846,Other,None,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+847,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+848,Turkey,Rice-based,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,Midwestern
+849,Turkey,Bread-based,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+850,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+851,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+852,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+853,Other,None,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Southern
+854,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+855,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,Southern
+856,Other,Rice-based,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,New Englander
+857,Turkey,Bread-based,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+858,Turkey,Other (please specify),Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+860,Tofurkey,Rice-based,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Midwestern
+861,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Southern
+862,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+863,Ham/Pork,Bread-based,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+864,Turkey,None,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Southern
+865,Turkey,Cornbread,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,New Englander
+866,Chicken,Bread-based,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+867,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+868,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+869,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+870,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+871,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+872,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Southern
+873,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+874,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Southern
+875,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+876,Chicken,None,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Californian/Pacific Coast
+877,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Californian/Pacific Coast
+878,Turkey,Bread-based,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,Southern
+879,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+880,Chicken,Bread-based,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+881,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Midwestern
+882,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Midwestern
+883,Chicken,Rice-based,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Southern
+884,Other,None,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+885,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+886,Turkey,Bread-based,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+887,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+888,Other,None,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,New Englander
+889,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+890,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+891,Turkey,Bread-based,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes,Southern
+892,Turkey,Bread-based,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Southern
+893,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Southern
+894,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+895,Turkey,Bread-based,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Californian/Pacific Coast
+896,Turkey,Bread-based,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+898,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+899,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+901,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Californian/Pacific Coast
+902,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+903,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+904,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+905,Turkey,Bread-based,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,New Englander
+908,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,Southern
+909,Turkey,None,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+910,Other,None,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,New Englander
+911,Turkey,Bread-based,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+912,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+913,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Midwestern
+914,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+915,Other,None,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,New Englander
+917,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+918,Turkey,Bread-based,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+919,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+920,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+921,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+922,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+923,Other,Bread-based,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,New Englander
+925,Turkey,Rice-based,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,Southern
+926,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+929,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+930,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+931,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+933,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+934,Chicken,Bread-based,Yes,No,Yes,No,No,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+936,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+937,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+938,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+939,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+940,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+941,Other,Bread-based,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Southern
+942,Turkey,Bread-based,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+943,Turkey,Bread-based,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+944,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+945,Turkey,Bread-based,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+946,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+948,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+949,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+950,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+952,Turkey,Bread-based,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+953,Tofurkey,Bread-based,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+955,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+956,Other,Bread-based,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Southern
+957,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+958,Turkey,Cornbread,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Southern
+959,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+960,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,Midwestern
+961,Turkey,None,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+962,Turkey,Bread-based,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+963,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+964,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Midwestern
+965,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+966,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+967,Turkey,None,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,New Englander
+968,Turkey,None,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,New Englander
+969,Turkey,Cornbread,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Southern
+970,Turkey,Bread-based,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+971,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+972,Turkey,None,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+973,Ham/Pork,None,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Midwestern
+974,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+975,Turkey,Bread-based,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+977,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+978,Turkey,Bread-based,Yes,No,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+979,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Midwestern
+980,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+981,Turkey,Bread-based,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+982,Turkey,Bread-based,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+983,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+984,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+985,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+986,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+987,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+988,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+989,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+990,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+991,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+992,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+993,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+994,Turkey,Bread-based,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Midwestern
+995,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+996,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+997,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Southern
+998,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+999,Turkey,Bread-based,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+1000,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+1002,Turkey,Rice-based,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,Midwestern
+1003,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+1004,Turkey,Bread-based,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+1005,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Southern
+1007,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+1008,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,New Englander
+1010,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+1011,Turkey,Bread-based,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Southern
+1012,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+1013,Ham/Pork,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+1014,Turkey,Bread-based,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+1015,Other,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+1016,Turkey,Bread-based,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+1017,Turkey,Bread-based,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+1018,Turkey,Rice-based,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Midwestern
+1019,Turkey,Cornbread,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Southern
+1021,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+1022,Other,Bread-based,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+1023,Other,Bread-based,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+1024,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+1025,Turkey,Bread-based,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+1026,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+1027,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+1029,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+1030,Turkey,Bread-based,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+1031,Ham/Pork,Rice-based,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Midwestern
+1033,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+1034,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+1035,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+1037,Other,None,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Midwestern
+1038,Turkey,Bread-based,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+1039,Turkey,Bread-based,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+1040,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+1041,Turkey,Cornbread,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes,Southern
+1042,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
+1043,Turkey,Bread-based,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,New Englander
+1044,Turkey,None,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+1045,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+1046,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+1047,Turkey,Bread-based,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,New Englander
+1048,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Midwestern
+1049,Turkey,Bread-based,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,New Englander
+1050,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Midwestern
+1051,Turkey,Bread-based,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Midwestern
+1053,Turkey,Bread-based,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Midwestern
+1054,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Midwestern
+1055,Other,Rice-based,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,New Englander
+1056,Turkey,None,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,New Englander
+1057,Turkey,Bread-based,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Southern
