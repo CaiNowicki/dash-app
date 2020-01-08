@@ -44,8 +44,8 @@ dbc.themes.YETI
 """
 
 external_stylesheets = [
-    dbc.themes.BOOTSTRAP, # Bootswatch theme
-    'https://use.fontawesome.com/releases/v5.9.0/css/all.css', # for social media icons
+    dbc.themes.SUPERHERO,  # Bootswatch theme
+    'https://use.fontawesome.com/releases/v5.9.0/css/all.css',  # for social media icons
 ]
 
 meta_tags=[
@@ -53,6 +53,6 @@ meta_tags=[
 ]
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets, meta_tags=meta_tags)
-app.config.suppress_callback_exceptions = True # see https://dash.plot.ly/urls
-app.title = 'Where Is Your Thanksgiving Dinner From?' # appears in browser title bar
+app.config.suppress_callback_exceptions = True  # see https://dash.plot.ly/urls
+app.title = 'Where Is Your Thanksgiving Dinner From?'  # appears in browser title bar
 server = app.server
