@@ -18,10 +18,10 @@ import pandas as pd
 col1 = dbc.Col(
     [
         html.H2('Dinner Region Prediction', style={'textAlign': 'center'}),
-        html.H5('Your dinner is most similar to Thanksgiving meals in the'),
+        html.H5('Your dinner is most similar to Thanksgiving meals in the', style={'textAlign': 'center'}),
         html.Div(id='prediction-content', className='mb-3', style={'textAlign': 'center', 'font-weight': 'bold',
                                                                    'font-color': 'blue'}),
-        html.H5('region')
+        html.H5('region.', style={'textAlign': 'center'})
     ],
 
     md=4
@@ -214,5 +214,4 @@ def predict(pie, cranberry_sauce, vegetables, main_dish_cooked, rolls, mac_n_che
     return y_pred
 
 
-col2_title = dbc.Row([html.H2('What foods were in your meal?', className='mb-6')], className='mb-3')
 layout = dbc.Row([col1, col2])

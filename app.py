@@ -48,7 +48,7 @@ external_stylesheets = [
     'https://use.fontawesome.com/releases/v5.9.0/css/all.css',  # for social media icons
 ]
 
-meta_tags=[
+meta_tags = [
     {'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
 ]
 
