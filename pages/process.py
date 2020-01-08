@@ -25,7 +25,7 @@ column1 = dbc.Col(
             think this shows that American traditions tend to move with families, and many Americans are more mobile 
             than we used to be. 
             
-            Instead, I decided to create this app, which is more about the food than the user. It ended up requiring 
+            Instead, I decided to create this quiz, which is more about the food than the user. It ended up requiring 
             a fair amount of research to create groups of traditional Thanksgiving dishes that are either specific to 
             or significantly more prevalent in particular regions of the country. 
             
@@ -36,7 +36,7 @@ column1 = dbc.Col(
             I also didn't want to create too many different regions if there weren't obvious differences in 
             Thanksgiving traditions between them 
             
-            I ended up choosing to give Hawaii its own region because there are many regional dishes popular there 
+            I chose to give Hawaii its own region because there are regional dishes popular there 
             which are entirely absent on Thanksgiving tables in the rest of the country, such as smoked turkey and 
             fresh fish. However, none of the initial poll data ended up coming out as the Hawaiian region, 
             so I wasn't able to use my model to predict that region. In the end, I had to leave it out since it 
