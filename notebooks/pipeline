@@ -199,7 +199,7 @@ X_train = train.drop(target, axis=1)
 y_train = train[target]
 
 
-pipeline = make_pipeline(OrdinalEncoder(), StandardScaler(), LogisticRegression())
+pipeline = make_pipeline(OrdinalEncoder(), StandardScaler(), LogisticRegression(class_weight='balanced'))
 features = ['Pumpkin_Pie', 'Homemade_Cranberry_Sauce', 'Corn', 'Rolls_Biscuits', 'Green_Beans',
             'Apple_Pie', 'Squash', 'Mac_and_Cheese', 'Mashed_Potatoes', 'Brussel_Sprouts', 'Cornbread',
             'Sweet_Potatoes',
