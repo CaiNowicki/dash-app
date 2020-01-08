@@ -45,13 +45,13 @@ column1 = dbc.Col(
             regardless of region, and so few of them had anything else that it was not a useful feature for 
             determining regional preferences """
         ),
+        html.Br(),
         dcc.Graph(figure=figure3)
     ],
     md=4,
 )
 column2 = dbc.Col(
     [
-        html.Br(),
         html.Br(),
         html.Br(),
         dcc.Markdown(
