@@ -23,7 +23,6 @@ col1 = dbc.Col(
                                                                    'font-color': 'blue'}),
         html.H5('region.', style={'textAlign': 'center'}),
         html.Br(),
-        html.Img(src='assets/us_map.jpg')
     ],
 
     md=4
