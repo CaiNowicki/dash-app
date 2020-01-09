@@ -5,6 +5,7 @@ import plotly.express as px
 
 import pandas as pd
 
+
 df = pd.read_csv('assets/wrangled_data.csv')
 
 #create plotly express visualizations
@@ -22,6 +23,7 @@ figure3 = px.histogram(df, x='Main_Dish', y='Type_of_Thanksgiving', title='Main 
 figure3.update_xaxes(title_text='Main Dish', automargin=True)
 figure3.update_yaxes(title_text='Total Count', automargin=True)
 
+
 column1 = dbc.Col(
     [
         dcc.Markdown(
@@ -29,10 +31,12 @@ column1 = dbc.Col(
 
            ## Data Visualizations 
 
-           It's often easier to understand the relationship between factors in data by using visualizations.
+           It's often easier to understand the relationship between factors in data by using visualizations. 
+           
+           One of the steps necessary in creating a model which is efficient as well as accurate is determining which features matter the most when training the model. There are several ways which this can be done. 
            
            This visualization is called a heat map. It shows the relationship between two variables and lets you 
-           see how many items fall into each group for both variables. 
+           see how many items fall into each group for both variables.
 
            """
         ),
@@ -66,6 +70,23 @@ column2 = dbc.Col(
            """
         ),
         dcc.Graph(figure=figure2),
+        html.Br(),
+        dcc.Markdown(
+            """
+            
+            Graphics like these have one major limitation - they only allow you the explore the relationship between 
+            a few variables at a time. That's not very efficient when dealing with a dataset where there are many 
+            columns. This dataset initially had 65 columns, and I ended up with 47 columns for different dishes and 
+            cooking methods. I wouldn't want to sit there and compare each of those against my target using a heat 
+            map or histogram! 
+            
+            Instead, you can use permutation importance, which is a method to show how important all of your 
+            variables are to the model at the same time. 
+            
+            """
+            ),
+        html.Img('assets/feature_importance.png'),
+        
     ],
     md=4,
 )
