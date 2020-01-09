@@ -48,6 +48,8 @@ column1 = dbc.Col(
             I ended up using a logistic regression model (which predicts the probability that a data point falls into 
             each class) rather than a "true" classification model (which just assigns a class to each data point) as 
             the logistic regression model was more accurate. 
+            
+            Just under half (49.5%) of my poll data points ended up corresponding to the Midwestern region. This meant that a "baseline" model, one that just guessed the majority class every time, would have an accuracy of 49.5%. So at a bare minimum, I needed my model to be more accurate than that. I was able to create a Logistic Regression model with an accuracy of 94% using every food item from the poll questions. I simplified the number of foods included in my quiz but kept enough that I was still achieving approximately 91% accuracy. 
 
 
             """
