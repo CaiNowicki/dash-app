@@ -21,7 +21,9 @@ col1 = dbc.Col(
         html.H5('Your dinner is most similar to Thanksgiving meals in the', style={'textAlign': 'center'}),
         html.Div(id='prediction-content', className='mb-3', style={'textAlign': 'center', 'font-weight': 'bold',
                                                                    'font-color': 'blue'}),
-        html.H5('region.', style={'textAlign': 'center'})
+        html.H5('region.', style={'textAlign': 'center'}),
+        html.Br(),
+        html.Img(src='assets/us_map.jpg')
     ],
 
     md=4
