@@ -85,7 +85,7 @@ column2 = dbc.Col(
             
             """
             ),
-        html.Img('assets/feature_importance.png'),
+        html.Img(src='assets/feature_importance.png'),
         
     ],
     md=4,
